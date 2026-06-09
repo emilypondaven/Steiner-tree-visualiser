@@ -13,4 +13,6 @@ python melzak_algorithm_code.py
 When prompted, enter 1 or 2 to choose which Steiner tree topology to compute (there are two valid configurations).
 
 # Melzak Algorithm
-Given any four points, the algorithm works by constructing a series of equilateral triangles on the edges of the quadrilateral, then using circle intersections to locate the two optimal junction points that minimise total network length. A nice illustration of how geometry from ancient Greece still turns up in modern path-finding problems.
+Given any four points, the algorithm works by constructing a series of equilateral triangles on the edges of the quadrilateral, then using circle intersections to locate the two optimal junction points that minimise total network length. 
+
+A nice illustration of how geometry from ancient Greece still turns up in modern path-finding problems!
