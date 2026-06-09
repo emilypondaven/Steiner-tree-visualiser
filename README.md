@@ -7,4 +7,5 @@ pip install matplotlib, numpy, shapely, scikit-spatial
 
 ## Run the Melzak visualiser:
 python melzak_algorithm_code.py
+
 When prompted, enter 1 or 2 to choose which Stienr tree topology to compute (there are two valid configurations)
