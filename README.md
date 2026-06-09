@@ -3,7 +3,7 @@ Built for IB Extended Essay. Visualises and compares three methods for connectin
 
 # How to run
 ## Install dependencies: 
-pip install matplotlib, numpy shapely scikit-spatial
+pip install matplotlib, numpy, shapely, scikit-spatial
 
 ## Run the Melzak visualiser:
 python melzak_algorithm_code.py
